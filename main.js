@@ -22,3 +22,5 @@ gsap.to('.mask', {
   ease: "sine.out",
   "--mask": 'linear-gradient(-30deg, transparent -50%, black 0%)'
 })
+
+//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
