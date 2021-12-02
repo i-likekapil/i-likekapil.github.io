@@ -7,8 +7,8 @@
 }
 
 :root {
-  --green: #014D4E;
-  --yellow: #FCB001;
+  --green: #1d3557;
+  --yellow: #a7c957;
   /*
   --yellow:#e5b567;
   --green:#6c99bb;*/
@@ -41,7 +41,7 @@ body.page-split p {
   width: 50%;
   height: 100vh;
   background-color:  var(--green);
-  box-shadow: 12px 12px 25px #a17c02;
+  box-shadow: 12px 12px 25px #a7c957;
 }
 
 .home__text {
@@ -79,7 +79,7 @@ a {
 }
 
 a:hover{
-  color: #fcd060;
+  color: #e5e5e5;
 }
 
 #text {
@@ -190,7 +190,7 @@ h2{
   margin: 2%;
   border-radius: 15px;
   background: #FCB001;
-  box-shadow:  7px 7px 10px #eda501,
+  box-shadow:  7px 7px 10px #6a994e,
              -7px -7px 10px #ffbb01;
  }
 
