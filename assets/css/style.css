@@ -48,6 +48,7 @@ body.page-split p {
 }
 
 .home__img {
+  /*margin: 120px calc(50% - 75px) 40px calc(50% - 75px); */
   margin: 120px calc(50% - 75px) 40px calc(50% - 75px); 
   width: 170px;
 }
@@ -329,3 +330,10 @@ ul{
     padding-top: 16px;
   }
 }
+
+
+
+
+
+
+
